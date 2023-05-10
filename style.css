@@ -1,0 +1,100 @@
+@import url('https://fonts.googleapis.com/css2?family=Oswald&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Roboto+Mono&display=swap');
+
+
+
+
+
+.cabeçalho{
+    background-color: #F28963;
+    color: #401506;
+    font-family: 'Oswald', sans-serif;
+    font-size: 3em;
+    height: 80px;
+    border-style: solid;
+    border-color: #401506;
+
+}
+.logoufca{
+    position: relative;
+    top: 425px;
+    left: 1195px;
+    width: 160px;
+    height: 80px;
+}
+
+.semestre1{
+    position: relative;
+    left: 0px;
+
+}
+
+.fila1{
+    bottom: 30px;
+
+}
+.cadeiras{
+    background-color: #62CDD9;
+    border-style: solid;
+    border-color: #401506;
+    border-radius: 5px;
+    border-width: 2px;
+    width: 100px;
+    text-align: center;
+    color: #401506;
+    font-family: 'Roboto Mono', monospace;;
+
+}
+.semestre{
+    
+}
+
+
+.semestre2{
+    position: relative;
+    left: 150px;
+
+}
+.semestre3{
+
+}
+.semestre4{
+
+}
+.semestre5{
+
+}
+.semestre6{
+
+}
+.semestre7{
+
+}
+.semestre8{
+
+}
+.semestre9{
+
+}
+.semestre10{
+
+}
+.fila2{
+
+}
+.fila3{
+    
+}
+.fila4{
+    
+}
+.fila5{
+    
+}
+.fila6{
+    
+}
+.fila7{
+    
+}
+
